@@ -1,0 +1,8 @@
+friends: {lastName: zhangsan,age: 12}
+pets:
+  - cat
+  - dog
+  - pig
+
+fus: {cat,dog,pig}
+
