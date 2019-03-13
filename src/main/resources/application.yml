@@ -1,8 +1,6 @@
 friends: {lastName: zhangsan,age: 12}
-pets:
-  - cat
-  - dog
-  - pig
-
-fus: {cat,dog,pig}
-
+person:
+  Name: bigbrother
+  boss: false
+  maps: {k1: v1,k2: v2}
+  lists: {dog,cat,fuck}

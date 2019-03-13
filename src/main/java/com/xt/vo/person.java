@@ -1,5 +1,8 @@
 package com.xt.vo;
 
+import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.stereotype.Component;
+
 import java.util.List;
 import java.util.Map;
 
@@ -8,6 +11,8 @@ import java.util.Map;
  * @date ：Created in 2019/3/12 18:52
  * @description：
  */
+@Component
+@ConfigurationProperties(prefix = "person")
 public class person {
     private String Name;
     private Boolean boss;
