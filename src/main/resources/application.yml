@@ -3,4 +3,7 @@ person:
   Name: bigbrother
   boss: false
   maps: {k1: v1,k2: v2}
-  lists: {dog,cat,fuck}
+  lists:
+    - dog
+    - cat
+    - fuck
