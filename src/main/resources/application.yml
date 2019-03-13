@@ -1,6 +1,6 @@
 friends: {lastName: zhangsan,age: 12}
 person:
-  Name: bigbrother
+  Name: 张三
   boss: false
   maps: {k1: v1,k2: v2}
   lists:
