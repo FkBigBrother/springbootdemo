@@ -17,4 +17,8 @@ public class UserController {
     public String hello(){
         return "Hello World";
     }
+    @RequestMapping("/testBoot")
+    public String ki(){
+        return "Hello World";
+    }
 }
